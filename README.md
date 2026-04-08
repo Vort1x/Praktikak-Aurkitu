@@ -164,5 +164,5 @@ Lorsque vous lancez une recherche depuis l'écran `SearchViewController`, la mé
 
 ---
 
-**Auteur** : Manus AI
+**Auteur** : Vort1x
 **Date** : 08 Avril 2026
